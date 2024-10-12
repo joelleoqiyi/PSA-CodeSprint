@@ -1,0 +1,71 @@
+﻿Standard Operating Procedure (SOP) for Administrative Tasks at PSA
+Document Control
+
+
+
+
+
+* Document Title: Standard Operating Procedure for Administrative Tasks
+* Version: 1.2
+* Effective Date: [Insert Date]
+* Review Date: [Insert Date]
+* Prepared by: [Your Name]
+* Approved by: [Supervisor/Manager's Name]
+Purpose: This SOP provides a detailed process guide for administrative tasks to ensure efficient and standardized operations within the PSA administrative department.
+Scope: This procedure applies to all administrative staff within PSA who are responsible for handling correspondence, document management, meeting arrangements, and other related tasks.
+Responsibilities:
+* Administrative Assistants: Execute daily administrative tasks as per the guidelines provided in this SOP.
+* Department Heads: Ensure staff compliance with the SOP and review the document annually.
+* IT Support: Assist with any technical issues related to administrative tasks.
+Procedures:
+1. Correspondence Management:
+   * Incoming Mail:
+      * Log all incoming mail in the mail log book.
+      * Distribute mail to appropriate departments/personnel.
+   * Outgoing Mail:
+      * Prepare and review outgoing mail for accuracy.
+      * Ensure that all outgoing mail is sent by the end of each business day.
+2. Document Management:
+   * Filing System:
+      * Maintain electronic and paper filing systems.
+      * Ensure all documents are filed according to the filing system protocol.
+   * Document Retention:
+      * Adhere to PSA's document retention policy.
+      * Schedule and conduct periodic reviews and purges as necessary.
+3. Meeting Arrangements:
+   * Scheduling:
+      * Coordinate with relevant parties to schedule meetings.
+      * Send meeting invitations and confirm attendees.
+   * Logistics:
+      * Arrange meeting rooms and necessary equipment.
+      * Prepare meeting agendas and distribute to participants.
+   * Minutes:
+      * Take meeting minutes and distribute them within 24 hours post-meeting.
+4. Travel Arrangements:
+   * Travel Bookings:
+      * Book travel and accommodations according to company policy and budget constraints.
+      * Provide itinerary and necessary documents to travelers.
+   * Expense Reimbursements:
+      * Process travel expense claims in accordance with PSA policies.
+      * Ensure timely submission and approval of all claims.
+5. Inventory Management:
+   * Office Supplies:
+      * Maintain inventory levels of office supplies.
+      * Reorder supplies before reaching minimum threshold levels.
+   * Equipment:
+      * Keep a log of all office equipment.
+      * Schedule regular maintenance and report any malfunctions.
+6. Health and Safety:
+   * Workplace Safety:
+      * Ensure all staff are aware of and follow health and safety guidelines.
+      * Conduct regular safety drills and training sessions.
+   * Emergency Procedures:
+      * Maintain up-to-date emergency contact lists.
+      * Ensure all staff know the location of emergency exits and first aid kits.
+Documentation and Record Keeping:
+* Keep accurate records of all administrative activities.
+* Ensure all documentation is available for audits and reviews.
+Revision and Review:
+* This SOP should be reviewed annually or as required by changes in procedures or personnel.
+* Document revisions must be approved by the department head.
+By following these detailed procedures, administrative staff at PSA can maintain a high level of efficiency and compliance, ensuring that the organization operates smoothly and effectively.
